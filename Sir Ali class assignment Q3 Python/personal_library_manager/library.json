@@ -1,0 +1,16 @@
+[
+    {
+        "title": "next.js",
+        "author": "Alice",
+        "year": 2022,
+        "genre": "coding",
+        "read_status": true
+    },
+    {
+        "title": "learn python",
+        "author": "tonny",
+        "year": 2022,
+        "genre": "coding",
+        "read_status": true
+    }
+]
